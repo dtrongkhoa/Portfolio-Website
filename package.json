@@ -3,6 +3,9 @@
     "typescript": "^5.4.3"
   },
   "dependencies": {
-    "next-themes": "^0.3.0"
+    "next": "^14.1.4",
+    "next-themes": "^0.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
